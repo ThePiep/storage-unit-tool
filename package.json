@@ -1,0 +1,21 @@
+{
+  "name": "csgo-storage-tool",
+  "version": "1.0.0",
+  "description": "Tool for storage unit acces in counter strike global offensive.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "globaloffensive": "^2.1.0",
+    "sass": "^1.32.12",
+    "steam-user": "^4.19.4"
+  }
+}
